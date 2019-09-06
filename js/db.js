@@ -174,10 +174,10 @@ let data = [{
   message: "Led the SEO team and also gave contributions ",
   resume: "https://codepen.io/estherokafor05/full/mdbqgoo",
 },{
-  name: "@Alex",
-  cloudinary: "https://res.cloudinary.com/pemualexandra/image/upload/w_400,h_400,c_scale/v1566641587/IMG_20190417_151731_1_qy85gh.jpg",
-  message: "I examined the website and provided feedback and support in the changes, I created a home button for the testimonials page. I created the email address and worked hand in hand with the social media team",
-  resume: "https://alex-pemu.github.io/StartNG",
+  name: "@mikeattara",
+  cloudinary: "https://res.cloudinary.com/mikeattara/image/upload/v1567757653/IMG_2751-min.jpg",
+  message: "Setup organisation and development flow on github. Setup Continuous Deployment to netlify for the frontend.",
+  resume: "https://docs.google.com/document/d/1OBpA8DEmPXIyKeuZ0WJ7vMABMzSTy2aujGLu1KJDF_Y/edit?usp=sharing"
 },{
   name: "@Larrich",
   cloudinary: "https://res.cloudinary.com/larrich/image/upload/w_400,h_400,c_scale/v1559471226/Larrich.jpg",
