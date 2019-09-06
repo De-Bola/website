@@ -198,4 +198,34 @@ let data = [{
   cloudinary: "https://res.cloudinary.com/isongjosiah/image/upload/w_400,h_400,c_scale/c_thumb,h_1135/v1566558716/20190308_131542_2_bpkovi.jpg",
   message: "checked the website for bugs that needed to be fixed and called the attention of team members to the bugs.",
   resume: "https://isongjosiah.github.io/Startdotng/"
+},{
+  name: "@Nd ekong",
+  cloudinary: "https://res.cloudinary.com/ndekong/image/upload/v1566591116/iqwcptm2vmaljsxvz1l0.jpg",
+  message: "Worked on the team page.",
+  resume: "https://ndekong.github.io/ndekng.github.io/"
+},{
+  name: "@alickdavid",
+  cloudinary: "https://res.cloudinary.com/alickdavid/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1566493671/IMG_20190726_213548_252_xyqnmp.jpg",
+  message: "I handled the homepage responsiveness for smart phones.",
+  resume: "https://alickdavid.github.io/"
+},{
+  name: "Idowu Deborah",
+  cloudinary: "https://res.cloudinary.com/dhayor/image/upload/v1567349665/IMG_20190303_090537_2_vjpjoe.jpg",
+  message: "I added an image to the team file.",
+  resume: "https://dhayor01.github.io"
+},{
+  name: "@Divagarl",
+  cloudinary: "https://res.cloudinary.com/divagarl/image/upload/c_thumb,w_200,g_face/v1566513411/Anita_pix_dsaxfw.jpg",
+  message: "Worked on the team page.",
+  resume: "https://divagarl-cyber.github.io/divagarl.github.io/index.html"
+},{
+  name: "Adewale Balogun",
+  cloudinary: "https://res.cloudinary.com/abulwasiu22/image/upload/v1566993073/abdulwasiu1_wclj9v.jpg",
+  message: "Brainstormed and trained some members in the frontend",
+  resume: "https://docs.google.com/document/d/1OBpA8DEmPXIyKeuZ0WJ7vMABMzSTy2aujGLu1KJDF_Y/edit?usp=sharing"
+},{
+  name: "Gideon Markus",
+  cloudinary: "https://res.cloudinary.com/gidmak/image/upload/v1566564580/Gideon_a8zi2i.jpg",
+  message: "Worked on the gallery page and repaired deadlinks in the home page",
+  resume: "https://gidmak.netlify.com/"
 }]
