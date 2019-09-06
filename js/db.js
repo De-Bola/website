@@ -11,32 +11,32 @@ let data = [{
 }, {
   name: "@Bhummie",
   cloudinary: "https://res.cloudinary.com/derbiet/image/upload/w_400,h_400,c_scale/v1566584009/StartNg/imgomg_cbcvxa.jpg",
-  message: "Github manager and Team deputy",
+  message: "Github manager and Team deputy, also worked in the backend.",
   resume: "https://sheltered-lowlands-78012.herokuapp.com",
 }, {
   name: "@Hermit",
   cloudinary: "https://res.cloudinary.com/hng-pre-internship/image/upload/w_400,h_400,c_scale/v1566498272/IMG_20160330_124834_lnrtem.jpg",
-  message: "Built the testimonial section of the testimonials page and enhanced web-page interactivity.",
+  message: "Team deputy. Worked on the testimonials page.",
   resume: "https://tiberiusmairura.netlify.com/contact.html",
 }, {
   name: "@drey",
   cloudinary: "https://res.cloudinary.com/drey/image/upload/w_400,h_400,c_scale/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1566498126/20190730_102625_qwqiez.jpg",
-  message: " Team deputy.Head of Ui/ux design team, i edited most of the team mockups, made contributions on front-end development, adding some lines of html and css codes",
+  message: "Team deputy.Head of Ui/ux design team and worked with the front-end.",
   resume: "https://drey771.github.io/",
 }, {
   name: "@Tobby",
   cloudinary: " https://res.cloudinary.com/tobby/image/upload/w_400,h_400,c_scale/v1567343188/PhotoGrid_1546108321210.png",
-  message: "Deputy team lead, designed meet team section, re-designed header for all pages. ",
+  message: "Team deputy. Designed meet team section and header for all pages.",
   resume: "https://tobbyjay.github.io/Hng-Task2/index.html",
 },{
   name: "@olaniyi900",
   cloudinary: "https://res.cloudinary.com/olaniyi/image/upload/w_400,h_400,c_scale/v1566506556/20170804_133337_image_fkdtkk.jpg",
-  message: "I contributed to the front-end task by working on the landing page. ",
+  message: "I contributed to the front-end task by working on the landing page.",
   resume: "https://olaniyi900.github.io/hnginternship/",
 },{
   name: "@Oluwadamilola ",
   cloudinary: "https://res.cloudinary.com/damilolaesankonwea/image/upload/w_400,h_400,c_scale/v1566627563/IMG_20190819_141404_jcy3ba.jpg",
-  message: "I got almost all the pictures used for the project. I mean the group project. I sent them to @drey. So you can confirm ",
+  message: "I got almost all the pictures used for the project.",
   resume: "https://damilolaesankonwea.github.io/MyOriginalCV/",
 },{
   name: "@Ebuka Harry",
@@ -46,27 +46,27 @@ let data = [{
 },{
   name:  "@Sir Lighton",
   cloudinary: "https://res.cloudinary.com/sir-lighton/image/upload/w_400,h_400,c_scale/v1566507311/IMG_20190813_133937_877_1_nsfncl.jpg",
-  message: "backend",
+  message: "Backend and manage the team twitter account.",
   resume: "https://olaosebikan.github.io/OLAONIPEKUN",
 },{
   name: "@Charles Ugbana",
   cloudinary: "https://res.cloudinary.com/charlene04/image/upload/w_400,h_400,c_scale/v1567491197/B67I7267-Edit_dmu62i.jpg",
-  message: "Developed section4,5&6 of landing and section2 of ContactUs page.",
+  message: "Worked on the homepage and Contact us page.",
   resume: "http://makeitpop.000webhostapp.com",
 },{
   name: "@codyt",
   cloudinary: "https://res.cloudinary.com/dmn1bwvq2/image/upload/w_400,h_400,c_scale/v1567499719/IMG_20190829_095855_3_2_ercsod.jpg",
-  message: "I conceptualized the UI homepage for Minds & Souls and also its structure also designed the team page UI.",
+  message: "I designed the UI for the homepage and team page.",
   resume: "https://olanrewaju.netlify.com/",
 },{
   name: "@Mide",
   cloudinary: "https://res.cloudinary.com/mide358/image/upload/w_400,h_400,c_scale/v1566556773/IMG_20190820_110545_jxnkaw_rwv385.jpg",
-  message: "Front-end- I designed the About page (excluding the footer), I also collaborated with 5 people to design the contact page",
+  message: "Front-end. I worked on the about page and contact page.",
   resume: "https://mide358.github.io/iyimide/",
 },{
   name: "@Kponke",
   cloudinary: "https://res.cloudinary.com/ekanem/image/upload/w_400,h_400,c_scale/v1566578868/start_ng/kponke_image.jpg",
-  message: "Page footer. Social icons. ",
+  message: "Designed the footers and social media icons. ",
   resume: "https://k-ekanem.github.io",
 },{
   name: "@Alex",
@@ -76,7 +76,7 @@ let data = [{
 },{
   name: "@siyfa",
   cloudinary: "https://res.cloudinary.com/siyfa/image/upload/w_400,h_400,c_scale/e_art:incognito,fl_animated.any_format.attachment.clip.sanitize.strip_profile,r_14/v1566537499/dsiuwznszbcve3nzwmr0.jpg",
-  message: "Among the frontend team and contributed by also working on the homepage of the team website. Provided information and helping hand during the designing. ",
+  message: "Frontend. Worked on the homepage.",
   resume: "https://siyfa.github.io/Hakuna/",
 },{
   name: "@Linda Adamu",
@@ -86,12 +86,12 @@ let data = [{
 },{
   name: "@peenarz",
   cloudinary: "https://res.cloudinary.com/afaraitsulaimon/image/upload/w_400,h_400,c_scale/v1566558222/jnuxyo4qweq4vbfjkryi.jpg",
-  message: "Backend",
+  message: "Backend.",
   resume: "http://afaraitsulaimon.github.io/bolatask2",
 },{
   name: "@codecayon",
   cloudinary: "https://res.cloudinary.com/dzgbjty7c/image/upload/w_400,h_400,c_scale/v1566578851/IMG_20190806_174237_mldvgh.jpg",
-  message: "I bring in some ideas to the group which i think it helps in achieving our  goal.",
+  message: "Brainstorming ideas for the group.",
   resume: "http://codecayon.github.io",
 },{
   name: "@Tosin 'Lua",
@@ -101,7 +101,7 @@ let data = [{
 },{
   name: "@Arinze",
   cloudinary: "https://res.cloudinary.com/dzwtycmnl/image/upload/w_400,h_400,c_scale/v1566590092/IMG_2602_osa6ad.jpg",
-  message: "I contributed in working on the Contact Us page with @Tosin 'Lua and @Dolapo. M",
+  message: "I worked on the Contact Us page.",
   resume: "https://arinzecv.netlify.com/",
 },{
   name: "@Joe Freely",
@@ -116,22 +116,22 @@ let data = [{
 },{
   name: "@Isreal Bankole",
   cloudinary: "https://res.cloudinary.com/isrealbankole/image/upload/w_400,h_400,c_scale/v1567335233/28537503_813349345528547_1670912722_n_7_ihib8j.jpg",
-  message: "I helped in setting up the Meet The Team page and assisted in getting the images for the Home page ready and hosted on Cloudinary.",
+  message: "I worked on the Team page and assisted with Cloudinary hosting.",
   resume: "https://oyefolarin.github.io/Start-NG-Projects/",
 },{
   name: "@writeshittu",
   cloudinary: "https://res.cloudinary.com/undercover/image/upload/w_400,h_400,c_scale/v1566576871/passport_zju0xb.jpg",
-  message: "Helped in writing codes on the volunteer section of the landing page. Also part of the team testing the responsiveness of the group project site",
+  message: "I wrote codes for the volunteer section of the landing page.",
   resume: "https://shit2boy.github.io/hnginternship/",
 },{
   name: "@anikriz",
   cloudinary: "https://res.cloudinary.com/anikriz/image/upload/w_400,h_400,c_scale/v1566560640/HNG%20%7CStartng%20Internship/passport_photo-min_zremwg.jpg",
-  message: "I participated in the design of the home page, from the header to the about us section, and also designed a donation page for the team.",
+  message: "I participated in the design of the home page.",
   resume: "https://anikriz.github.io/startng-training/",
 },{
   name: "@Daniel Kolawole",
   cloudinary: "https://res.cloudinary.com/djdlqcts6/image/upload/w_400,h_400,c_scale/v1566836724/20190826_085841_mdjjsl.jpg",
-  message: "I downloaded, and installed Getbarter app, as well as commented on the services the app provided on Google Play Store.",
+  message: "I helped by reviewing the Getbarter app.",
   resume: "https://dankola.github.io/hngtasks/",
 },{
   name: "@Barbara Mangiri",
@@ -141,7 +141,7 @@ let data = [{
 },{
   name: "@helewud",
   cloudinary: "https://res.cloudinary.com/dvag8e5pw/image/upload/w_400,h_400,c_scale/v1554309159/helewud.jpg",
-  message: "I worked with UI team, i contributed in drafting a mockup for the gallery page, volunteer page and testimonial page",
+  message: "UI team. I made mockups for the gallery page, volunteer page and testimonial page",
   resume: "https://helewud.github.io/StartNG/",
 },{
   name: "@the zoba",
@@ -156,7 +156,7 @@ let data = [{
 },{
   name: "@meek",
   cloudinary: "https://res.cloudinary.com/meekcreatives/image/upload/w_400,h_400,c_scale/ar_1:1,bo_5px_solid_rgb:ffffff,c_fill,g_auto,r_max,w_1000/v1566563359/Passport/Passport_W_-_Copy_fp3z5h.jpg",
-  message: "contributed in the ui designs of the team project",
+  message: "I contributed to the ui designs.",
   resume: "https://mcbiare.github.io/",
 },{
   name: "@Dolapo M.",
@@ -182,7 +182,7 @@ let data = [{
   name: "@Larrich",
   cloudinary: "https://res.cloudinary.com/larrich/image/upload/w_400,h_400,c_scale/v1559471226/Larrich.jpg",
   message: "I pitched designs for the homepage and Donate Now page.",
-  resume: "#"
+  resume: "http://larrich.github.io/Omolara-Atoyebi-CV/"
 },{
   name: "@Lanray",
   cloudinary: "https://res.cloudinary.com/lanrayjay/image/upload/w_400,h_400,c_scale/v1567380184/HNG%20Resources/IMG_20180306_123902_resize_27_w6trxr.jpg",
